@@ -6,3 +6,9 @@ p{
 color: white;
 background-color: black;
 }
+h1{
+    width:40%;
+    height: 80px;
+    background-color: black;
+    color: white;
+}
